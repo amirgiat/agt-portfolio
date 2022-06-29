@@ -1,19 +1,13 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: img/pexels-fauxels-3184418-4-.jpg
+title: שיר שלוםםםםםםםםם
+subtitle: Shir1518@walla.com
+image: img/pexels-josh-hild-12405196.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: asdfasd
+  text: dfgdfgdfgdfgdf
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: dsfsd
+  text: sadfas
 products:
   - image: img/pexels-gladson-xavier-59197-3-.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
