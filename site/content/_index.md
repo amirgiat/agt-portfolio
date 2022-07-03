@@ -1,10 +1,10 @@
 ---
-title: שיר שלוםםםםםםםםם
-subtitle: Shir1518@walla.com
-image: img/pexels-josh-hild-12405196.jpg
+title: שיר- הדרך לביטחון כלכלי
+subtitle: יעוץ כלכלי למשפחות ויחידים
+image: https://www.istockphoto.com/photo/growing-trees-leader-trees-planting-trees-save-world-concept-gm962585012-262901686/URL
 blurb:
-  heading: asdfasd
-  text: dfgdfgdfgdfgdf
+  heading: למי יעוץ כלכלי מתאים?
+  text: למי יעוץ כלכלי מתאים?
 intro:
   heading: dsfsd
   text: sadfas
