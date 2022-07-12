@@ -1,6 +1,6 @@
 ---
-title: שיר- הדרך לביטחון כלכלי
-subtitle: יעוץ כלכלי למשפחות ויחידים
+title: עו"שיר
+subtitle: "יעוץ כלכלי "
 image: https://www.istockphoto.com/photo/growing-trees-leader-trees-planting-trees-save-world-concept-gm962585012-262901686/URL
 blurb:
   heading: למי יעוץ כלכלי מתאים?
